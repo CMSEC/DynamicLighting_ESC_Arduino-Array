@@ -1,5 +1,5 @@
 # DynamicLighting_ESC_Arduino-Array
-eXternal Serial Commander - Arduino
+**eXternal Serial Commander - Arduino**
 
 - Compatibility:
   * Controllers: MEGA 2560, UNO

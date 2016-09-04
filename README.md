@@ -2,10 +2,10 @@
 eXternal Serial Commander - Arduino
 
 - Compatibility:
-  • Controllers: MEGA 2560, UNO
-  • System: DynamicLighting
+  * Controllers: MEGA 2560, UNO
+  * System: DynamicLighting
   
 - Features:
-  • Digital Labeler: OLED, LCD
-  • Pushbutton Array: 2-10
-  • Rotary Switch Panel Selector
+  * Digital Labeler: OLED, LCD
+  * Pushbutton Array: 2-10
+  * Rotary Switch Panel Selector
